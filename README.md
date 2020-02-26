@@ -8,13 +8,14 @@ assignment详细解析见博客
 
 todo：
 
-```python
+
 - [x] assignment1
-- [ ] assignment2
+- [x] assignment2
+	+ write部分见博客
 - [ ] assignment3
 - [ ] assignment4
 - [ ] assignment5
 - [ ] final project
-```
+
 
 
