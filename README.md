@@ -12,7 +12,9 @@ todo：
 - [x] assignment1
 - [x] assignment2
 	+ write部分见博客
-- [ ] assignment3
+- [x] assignment3
+  - write部分见博客
+  - 由于a3/data 和 a3/result 太大，所以给删掉了。压缩文件中有data。result 可以自己训练得到
 - [ ] assignment4
 - [ ] assignment5
 - [ ] final project
